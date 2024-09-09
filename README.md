@@ -8,7 +8,7 @@ Frontend developer with 2 years of experience in developing complex web applicat
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [sidea.ilyaderkach@gmail.com](mailto:sidea.ilyaderkach@gmail.com)
-* 🚀  I'm currently working on [Space](http://github.com/InctaRepo/Inctagram)
+  
 * 🧠  I'm learning Next JS, Redux Toolkit.
 * 🤝  I'm open to collaborating on intersting projects
 
